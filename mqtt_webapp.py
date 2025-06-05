@@ -4,7 +4,7 @@ import paho.mqtt.client as mqtt
 # MQTT Settings
 broker = "broker.hivemq.com"
 port = 1883
-topic = "lumishue/control"
+topic = "lumishue/MAHESH/control"
 
 # MQTT Setup
 client = mqtt.Client()
